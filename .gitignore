@@ -1,0 +1,7 @@
+# Compiled binary files
+*.exe
+
+# Git metadata or system files
+.vs/
+bin/
+obj/
