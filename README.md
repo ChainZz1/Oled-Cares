@@ -76,6 +76,12 @@ For developers interested in the Windows API integrations:
 
 ---
 
+## 🤖 Developed With AI
+
+This project was developed, refactored, and documented with the assistance of **Antigravity**, an agentic AI coding assistant designed by the **Google DeepMind** team.
+
+---
+
 ## 📄 License
 
 This project is open-source and licensed under the MIT License.
